@@ -2,36 +2,41 @@
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=700&lines=Aspiring+Full+Stack+Developer;Web+Development+Enthusiast;Always+Learning+New+Things;Building+Creative+Projects" /> </p>
 
 🧑‍💻 About Me
+
 🎓 Student passionate about technology
+
 💡 Love creating interactive & creative web projects
+
 🌱 Learning: JavaScript, Node.js, Python
+
 ⚡ Fun fact: I enjoy making projects that feel alive
 
 ⚡ Tech Stack
 💻 Programming Languages
-<p align="center"> <img src="https://skillicons.dev/icons?i=html" height="50"/><br>HTML5 &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=css" height="50"/><br>CSS3 &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=js" height="50"/><br>JavaScript </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=html" height="50"/>
+<br>HTML5 &nbsp;&nbsp;&nbsp;&nbsp; 
+  
+<img src="https://skillicons.dev/icons?i=css" height="50"/>
+<br>CSS3 &nbsp;&nbsp;&nbsp;&nbsp; 
+
+<img src="https://skillicons.dev/icons?i=js" height="50"/>
+<br>JavaScript 
+</p>
+
 ⚙️ Tools & Technologies
-<p align="center"> <img src="https://skillicons.dev/icons?i=git" height="50"/><br>Git &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=github" height="50"/><br>GitHub &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=vscode" height="50"/><br>VS Code &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=chrome" height="50"/><br>Chrome DevTools </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=git" height="50"/>
+<br>Git &nbsp;&nbsp;&nbsp;&nbsp; 
+  
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+<br>GitHub &nbsp;&nbsp;&nbsp;&nbsp; 
+
+<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+<br>VS Code &nbsp;&nbsp;&nbsp;&nbsp; 
 
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nilesh-Prakash-Sinha-1810&show_icons=true&theme=tokyonight&border_radius=10" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nilesh-Prakash-Sinha-1810&theme=tokyonight&border_radius=10" height="160"/> </p>
 
-🧠 Top Languages
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilesh-Prakash-Sinha-1810&layout=compact&theme=tokyonight&border_radius=10"/> </p>
-
-🏆 Achievements
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Nilesh-Prakash-Sinha-1810&theme=radical&no-frame=true&margin-w=10"/> </p>
-
-🔥 Contribution Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nilesh-Prakash-Sinha-1810&theme=tokyo-night"/> </p>
-
-🐍 Contribution Snake
-<p align="center"> <img src="https://raw.githubusercontent.com/Nilesh-Prakash-Sinha-1810/Nilesh-Prakash-Sinha-1810/output/github-contribution-grid-snake.svg"/> </p>
-
 💡 Quote
 “Consistency beats talent when talent doesn’t show up.
-
-👀 Profile Views
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Nilesh-Prakash-Sinha-1810&style=for-the-badge&color=blueviolet"/> </p>
 
 ⭐ Star your favorite repos & let's build something awesome!
