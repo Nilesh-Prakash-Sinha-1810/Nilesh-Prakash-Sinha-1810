@@ -29,12 +29,9 @@
 
 HTML5
 
-
 CSS3
 
-
 JavaScript
-
 
 Python
 
@@ -43,13 +40,11 @@ Python
 
 VS Code
 
-
 Git & GitHub
 
 
 
 💡 Quote I Believe In
-
 
 “Code. Create. Innovate. Repeat.”
 
