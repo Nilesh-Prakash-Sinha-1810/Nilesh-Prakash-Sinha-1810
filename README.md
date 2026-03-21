@@ -4,15 +4,11 @@
 🧑‍💻 About Me
 🎓 Student passionate about technology
 💡 Love creating interactive & creative web projects
-🔭 Currently working on: Web Development Projects
-🌱 Learning: JavaScript, Node.js, DSA
-🎯 Goal: Become a Full Stack Developer
+🌱 Learning: JavaScript, Node.js, Python
 ⚡ Fun fact: I enjoy making projects that feel alive
 
 ⚡ Tech Stack
 💻 Languages
-<p> <img src="https://skillicons.dev/icons?i=html,css,js" /> </p>
-🎨 Frontend
-<p> <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,python" /> </p>
 ⚙️ Tools
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,chrome" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
