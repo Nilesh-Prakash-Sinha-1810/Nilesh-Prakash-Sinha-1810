@@ -13,14 +13,11 @@
 
 ⚡ Tech Stack
 💻 Programming Languages
-<p> <img src="https://skillicons.dev/icons?i=html" height="50"/>
-<br>HTML5 &nbsp;&nbsp;&nbsp;&nbsp; 
+<p> <img src="https://skillicons.dev/icons?i=html" height="50"/> <br>HTML5 &nbsp;&nbsp;&nbsp;&nbsp; 
   
-<img src="https://skillicons.dev/icons?i=css" height="50"/>
-<br>CSS3 &nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://skillicons.dev/icons?i=css" height="50"/> <br>CSS3 &nbsp;&nbsp;&nbsp;&nbsp; 
 
-<img src="https://skillicons.dev/icons?i=js" height="50"/>
-<br>JavaScript 
+<img src="https://skillicons.dev/icons?i=js" height="50"/> <br>JavaScript 
 </p>
 
 ⚙️ Tools & Technologies
