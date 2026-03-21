@@ -14,19 +14,15 @@
 ⚡ Tech Stack
 💻 Programming Languages
 <p> <img src="https://skillicons.dev/icons?i=html" height="50"/> <br>HTML5 &nbsp;&nbsp;&nbsp;&nbsp; 
-  
 <img src="https://skillicons.dev/icons?i=css" height="50"/> <br>CSS3 &nbsp;&nbsp;&nbsp;&nbsp; 
-
 <img src="https://skillicons.dev/icons?i=js" height="50"/> <br>JavaScript 
 </p>
 
 ⚙️ Tools & Technologies
   
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-<br>GitHub &nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://skillicons.dev/icons?i=github" height="50"/> <br>GitHub &nbsp;&nbsp;&nbsp;&nbsp; 
 
-<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
-<br>VS Code &nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://skillicons.dev/icons?i=vscode" height="50"/> <br>VS Code &nbsp;&nbsp;&nbsp;&nbsp; 
 
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nilesh-Prakash-Sinha-1810&show_icons=true&theme=tokyonight&border_radius=10" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nilesh-Prakash-Sinha-1810&theme=tokyonight&border_radius=10" height="160"/> </p>
