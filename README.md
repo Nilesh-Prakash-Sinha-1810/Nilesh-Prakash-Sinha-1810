@@ -13,7 +13,7 @@
 
 ⚡ Tech Stack
 💻 Programming Languages
-<p align="center"> <img src="https://skillicons.dev/icons?i=html" height="50"/>
+<p> <img src="https://skillicons.dev/icons?i=html" height="50"/>
 <br>HTML5 &nbsp;&nbsp;&nbsp;&nbsp; 
   
 <img src="https://skillicons.dev/icons?i=css" height="50"/>
@@ -24,8 +24,6 @@
 </p>
 
 ⚙️ Tools & Technologies
-<p align="center"> <img src="https://skillicons.dev/icons?i=git" height="50"/>
-<br>Git &nbsp;&nbsp;&nbsp;&nbsp; 
   
 <img src="https://skillicons.dev/icons?i=github" height="50"/>
 <br>GitHub &nbsp;&nbsp;&nbsp;&nbsp; 
