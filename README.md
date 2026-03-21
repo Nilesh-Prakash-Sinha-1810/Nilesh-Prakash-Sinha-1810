@@ -1,16 +1,26 @@
-## Hi there 👋
+👋 Hi, I'm Nilesh! 
+🎓 Student | 💻 Tech Enthusiast | 🚀 Future Developer
 
-<!--
-**Nilesh-Prakash-Sinha-1810/Nilesh-Prakash-Sinha-1810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 About Me
+🔭 Currently working on: Web Development Projects
+🌱 Currently learning: JavaScript, Advanced CSS, and Backend Development
+👯 Looking to collaborate on: Cool Web Apps & Creative Projects
+⚡ Fun fact: I love building interactive and creative tech projects
 
-Here are some ideas to get you started:
+🛠️ Tech Stack
+💻 Programming Languages
+HTML5
+CSS3
+JavaScript
+Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ Tools & Technologies
+VS Code
+Git & GitHub
+
+💡 Quote I Believe In
+“Code. Create. Innovate. Repeat.”
+
+📫 Connect With Me
+GitHub: https://github.com/Nilesh-Prakash-Sinha-1810
+Email: nileshprakashori@gamil.com
