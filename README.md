@@ -12,3 +12,9 @@
 <p> <img src="https://skillicons.dev/icons?i=html,css,js,python" /> </p>
 ⚙️ Tools
 <p> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" /> </p>
+
+🏆 Achievements
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=algolia&margin-w=10&margin-h=10" /> </p>
