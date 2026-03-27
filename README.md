@@ -22,7 +22,7 @@
 ### 🛠 Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,python,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,python,pandas,numpy,matplotlib&theme=dark" />
   </a>
 </p>
 
@@ -50,5 +50,5 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=Nilesh-Prakash-Sinha-1810&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
 </p>
