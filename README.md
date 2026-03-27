@@ -1,105 +1,54 @@
-# 🧬 LEGENDARY PLAYER: NILESH
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Hello%20World%20👋&fontSize=70&animation=fadeIn" width="100%" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=900&lines=⚡+Initializing+Legendary+Developer...;🚀+Aspiring+Full+Stack+Developer;💡+Building+Creative+Projects;🎮+Turning+Code+Into+Experiences" />
-</p>
+<div align="center">
+  <h1>Hi, I'm Nilesh! ⚡</h1>
+  <p align="center">
+    <strong>Full-Stack Developer | Open Source Enthusiast | Tech Explorer</strong>
+  </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nilesh-Prakash-Sinha-1810&theme=algolia&no-frame=true&row=1&column=6" />
+</div>
+
+---
+
+### 💫 About Me
+- 🌱 I’m currently learning Python (Advanced).
+- 💬 Ask me about Web Development or UI.
+- ⚡ Fun fact: I like to make projects which feel alive.
+
+---
+
+### 🛠 Tech Stack
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,python,figma&theme=dark" />
+  </a>
 </p>
 
 ---
 
-## 🎮 PLAYER CORE
-
-```yaml
-Name: Nilesh
-Class: Developer 🧠
-Level: Beginner → Rising 🚀
-XP: ███████░░░ 70%
-
-Traits:
-  - 🎓 Student passionate about technology
-  - 💡 Love creating interactive & creative web projects
-  - 😁 Builds projects that feel alive
-
-Learning:
-  - JavaScript ⚡
-  - Node.js 🔧
-  - Python 🐍
-```
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nilesh-Prakash-Sinha-1810&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nilesh-Prakash-Sinha-1810&theme=radical&hide_border=true" alt="GitHub Streak" height="180px" />
+</div>
 
 ---
 
-## 🗺️ SKILL WORLD MAP
-
+### 🏆 Trophies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python" />
-</p>
-
-<p align="center">
-  <img src="https://progress-bar.dev/80/?title=HTML"/>
-  <img src="https://progress-bar.dev/70/?title=CSS"/>
-  <img src="https://progress-bar.dev/65/?title=JavaScript"/>
-  <img src="https://progress-bar.dev/60/?title=Python"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Nilesh-Prakash-Sinha-1810&theme=radical&no-bg=true&column=7" alt="Trophies" />
+  </a>
 </p>
 
 ---
 
-## 🎒 INVENTORY
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,vscode" />
-</p>
-
----
-
-## 📊 POWER STATS (LIVE)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nilesh-Prakash-Sinha-1810&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nilesh-Prakash-Sinha-1810&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nilesh-Prakash-Sinha-1810&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🐍 EVOLUTION TRACK (ANIMATED)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Nilesh-Prakash-Sinha-1810/Nilesh-Prakash-Sinha-1810/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## ⚔️ CURRENT QUESTS
-
-* 🔥 Building interactive web projects
-* 🌐 Learning full stack development
-* 🎮 Creating game-like web experiences
-* ⚡ Staying consistent
-
----
-
-## 💬 LEGENDARY CODE
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFD700&size=24&center=true&vCenter=true&width=800&lines=Consistency+beats+talent+when+talent+doesn’t+show+up." />
-</p>
-
----
-
-## 🎯 FINAL QUEST
-
-<p align="center">
-  ⭐ Star your favorite repos & let's build something awesome!
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6C63FF&height=140&section=footer"/>
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
 </p>
