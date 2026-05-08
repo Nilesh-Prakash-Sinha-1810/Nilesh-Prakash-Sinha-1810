@@ -57,7 +57,15 @@ class Nilesh:
 
 ### Libraries
 
-<img src="https://skillicons.dev/icons?i=pandas,numpy,maplotlib" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="55" alt="numpy logo"/>
+  &nbsp;&nbsp;&nbsp;
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="55" alt="pandas logo"/>
+  &nbsp;&nbsp;&nbsp;
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="55" alt="matplotlib logo"/>
+</p>
 
 </div>
 
