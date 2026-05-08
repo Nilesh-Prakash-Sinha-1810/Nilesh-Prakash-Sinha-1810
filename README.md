@@ -7,7 +7,7 @@
 <img 
 src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,25:1f6feb,50:58a6ff,75:1f6feb,100:0d1117&text=Nilesh%20Prakash%20Sinha&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Python%20•%20Web%20•%20AI/ML&descAlignY=55&descSize=20"
 />
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=200%%&lines=Python+Developer;Web+Developer;AI%2FML+Explorer;Open+Source+Learner;Building+Projects+%26+Learning+Daily"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=300%%&lines=Python+Developer;Web+Developer;AI%2FML+Explorer;Open+Source+Learner;Building+Projects+%26+Learning+Daily"/>
 
 <br/>
 
