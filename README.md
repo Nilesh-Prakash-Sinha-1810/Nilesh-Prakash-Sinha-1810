@@ -55,9 +55,9 @@ class Nilesh:
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 
-### Exploring
+### Libraries
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=pandas,numpy" />
 
 </div>
 
