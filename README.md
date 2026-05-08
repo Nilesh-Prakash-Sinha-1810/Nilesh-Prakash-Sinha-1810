@@ -57,7 +57,7 @@ class Nilesh:
 
 ### Libraries
 
-<img src="https://skillicons.dev/icons?i=pandas,numpy" />
+<img src="https://skillicons.dev/icons?i=pandas,numpy,maplotlib" />
 
 </div>
 
@@ -141,10 +141,6 @@ class Nilesh:
 # 📫 Connect With Me
 
 <div align="center">
-
-<a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
 
 <a href="https://github.com/Nilesh-Prakash-Sinha-1810">
     <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=ffffff"/>
