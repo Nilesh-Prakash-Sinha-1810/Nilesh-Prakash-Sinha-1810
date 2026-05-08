@@ -1,7 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1f6feb&height=180&section=header&text=Nilesh%20Prakash%20Sinha&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
+<img 
+src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0d1117,25:1f6feb,50:58a6ff,75:1f6feb,100:0d1117&text=Nilesh%20Prakash%20Sinha&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Python%20•%20Web%20•%20AI/ML&descAlignY=55&descSize=20"
+/>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Python+Developer;Web+Developer;AI%2FML+Explorer;Open+Source+Learner;Building+Projects+%26+Learning+Daily"/>
 
 <br/>
@@ -42,30 +45,23 @@ class Nilesh:
 - 🚀 Exploring open-source and real-world software development  
 
 ---
+<img src="https://user-images.githubusercontent.com/74038190/212750793-4077f0f6-7b56-4f31-8b7c-4f7c8087f5f5.gif" width="100%">
 
 # 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
+<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,linux,tensorflow&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css" />
+<br><br>
 
-### Tools & Technologies
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="55" />
+&nbsp;&nbsp;&nbsp;
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="55" />
+&nbsp;&nbsp;&nbsp;
 
-### Libraries
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="55" alt="numpy logo"/>
-  &nbsp;&nbsp;&nbsp;
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="55" alt="pandas logo"/>
-  &nbsp;&nbsp;&nbsp;
-  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="55" alt="matplotlib logo"/>
-</p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="55" />
 
 </div>
 
@@ -85,6 +81,7 @@ class Nilesh:
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212750793-4077f0f6-7b56-4f31-8b7c-4f7c8087f5f5.gif" width="100%">
 ---
 
 # 🚀 Current Projects
@@ -101,7 +98,8 @@ class Nilesh:
 </div>
 
 > 📌 More projects available on my GitHub repositories.
-
+> 
+<img src="https://user-images.githubusercontent.com/74038190/212750793-4077f0f6-7b56-4f31-8b7c-4f7c8087f5f5.gif" width="100%">
 ---
 
 # 📚 Currently Learning
@@ -113,6 +111,7 @@ class Nilesh:
 - Open-source contribution workflow  
 
 ---
+<img src="https://user-images.githubusercontent.com/74038190/212750793-4077f0f6-7b56-4f31-8b7c-4f7c8087f5f5.gif" width="100%">
 
 # 📊 GitHub Analytics
 
@@ -125,6 +124,7 @@ class Nilesh:
 </div>
 
 ---
+<img src="https://user-images.githubusercontent.com/74038190/212750793-4077f0f6-7b56-4f31-8b7c-4f7c8087f5f5.gif" width="100%">
 
 # 🔥 Contribution Streak
 
@@ -132,9 +132,12 @@ class Nilesh:
 
 <img src="https://streak-stats.demolab.com?user=Nilesh-Prakash-Sinha-1810&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nilesh-Prakash-Sinha-1810&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true"/>
+
 </div>
 
 ---
+<img src="https://user-images.githubusercontent.com/74038190/212750793-4077f0f6-7b56-4f31-8b7c-4f7c8087f5f5.gif" width="100%">
 
 # 🧠 Fun Facts
 
@@ -145,6 +148,7 @@ class Nilesh:
 - 🚀 Interested in building impactful software products  
 
 ---
+<img src="https://user-images.githubusercontent.com/74038190/212750793-4077f0f6-7b56-4f31-8b7c-4f7c8087f5f5.gif" width="100%">
 
 # 📫 Connect With Me
 
@@ -157,11 +161,12 @@ class Nilesh:
 </div>
 
 ---
+<img src="https://user-images.githubusercontent.com/74038190/212750793-4077f0f6-7b56-4f31-8b7c-4f7c8087f5f5.gif" width="100%">
 
 <div align="center">
 
 ### 🚀 “Code. Learn. Build. Repeat.”
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0f0f0f&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=160&section=footer"/>
 
 </div>
