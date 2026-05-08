@@ -7,7 +7,7 @@
 <img 
 src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,25:1f6feb,50:58a6ff,75:1f6feb,100:0d1117&text=Nilesh%20Prakash%20Sinha&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Python%20•%20Web%20•%20AI/ML&descAlignY=55&descSize=20"
 />
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Python+Developer;Web+Developer;AI%2FML+Explorer;Open+Source+Learner;Building+Projects+%26+Learning+Daily"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=100%&lines=Python+Developer;Web+Developer;AI%2FML+Explorer;Open+Source+Learner;Building+Projects+%26+Learning+Daily"/>
 
 <br/>
 
@@ -24,16 +24,8 @@ class Nilesh:
     def __init__(self):
         self.name = "Nilesh Prakash Sinha"
         self.role = "Python & Web Developer"
-        self.interests = [
-            "Python",
-            "Web Development",
-            "AI/ML",
-            "Open Source",
-            "Automation"
-        ]
         self.current_focus = "Building projects and improving problem-solving skills"
-        self.learning = ["AI/ML", "Backend Development", "Advanced JavaScript"]
-    
+
     def say_hi(self):
         return "Thanks for visiting my profile 🚀"
 ```
@@ -53,13 +45,67 @@ class Nilesh:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,linux,tensorflow&theme=dark" />
+<table>
+<tr>
 
-<br><br>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=python" width="48"/><br>Python
+</td>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="45"/>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=js" width="48"/><br>JavaScript
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=github" width="48"/><br>GitHub
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>VS Code
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=linux" width="48"/><br>Linux
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/><br>NumPy
+</td>
+
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/><br>Pandas
+</td>
+
+<td align="center" width="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="48"/><br>Matplotlib
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="48"/><br>TensorFlow
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -97,9 +143,11 @@ class Nilesh:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nilesh-Prakash-Sinha-1810&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nilesh-Prakash-Sinha-1810&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilesh-Prakash-Sinha-1810&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilesh-Prakash-Sinha-1810&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+</p>
 
 </div>
 
@@ -111,7 +159,7 @@ class Nilesh:
 
 <img src="https://streak-stats.demolab.com?user=Nilesh-Prakash-Sinha-1810&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nilesh-Prakash-Sinha-1810&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nilesh-Prakash-Sinha-1810&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
