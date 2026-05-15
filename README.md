@@ -159,8 +159,6 @@ class Nilesh:
 
 <img src="https://streak-stats.demolab.com?user=Nilesh-Prakash-Sinha-1810&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nilesh-Prakash-Sinha-1810&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true"/>
-
 </div>
 
 ---
