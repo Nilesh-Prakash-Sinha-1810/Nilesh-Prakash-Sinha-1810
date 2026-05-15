@@ -53,10 +53,6 @@ class Nilesh:
 </td>
 
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=c++" width="48"/><br>C++
-</td>
-
-<td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=js" width="48"/><br>JavaScript
 </td>
 
